@@ -49,5 +49,5 @@ yarn deploy:contracts
 ```
 yarn start:ethernaut
 ```
-8. Once in client/frontend, deploy the challenge contract using the account created with private keys in step 3. 
+8. Once in client/frontend, select localhost 8545 network in your Metamask wallet and deploy challenge contract using the account created in step 3. 
 9. Go to ethernaut-solutions repo to run solution scripts. 
