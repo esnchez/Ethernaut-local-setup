@@ -16,7 +16,7 @@ You can find the current, official version at:
 
 There are three components to Ethernaut that are needed to run/deploy in order to work with it locally:
 
-·Test Network - A testnet that is running locally, like gnache, hardhat network, geth, etc
+·Test Network - A testnet that is running locally, like ganache, hardhat network, geth, etc
 
 ·Contract Deployment - In order to work with the contracts, they must be deployed to the locally running testnet
 
@@ -37,7 +37,7 @@ yarn network
 ```
 3. You might want to import one of the private keys from ganache-cli to your Metamask wallet.
 4. Open a new terminal and let local network running on background. 
-5. Compile contracts in the new terminal. 
+5. Compile contracts (to local network) in the new terminal. 
 ```
 yarn compile:contracts
 ```
