@@ -16,9 +16,9 @@ You can find the current, official version at:
 
 There are three components to Ethernaut that are needed to run/deploy in order to work with it locally:
 
-Test Network - A testnet that is running locally, like gnache, hardhat network, geth, etc
-Contract Deployment - In order to work with the contracts, they must be deployed to the locally running testnet
-The Client/Frontend - This is a React app that runs locally and can be accessed on localhost:3000
+·Test Network - A testnet that is running locally, like gnache, hardhat network, geth, etc
+·Contract Deployment - In order to work with the contracts, they must be deployed to the locally running testnet
+·The Client/Frontend - This is a React app that runs locally and can be accessed on localhost:3000
 In order to install, build, and run Ethernaut locally, follow these instructions:
 
 ### Running locally (local network)
